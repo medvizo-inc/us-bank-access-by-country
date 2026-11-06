@@ -1,6 +1,6 @@
 # US bank access by country
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24015514.svg)](https://doi.org/10.5281/zenodo.24015514)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24015513.svg)](https://doi.org/10.5281/zenodo.24015513)
 
 Which US business accounts name a founder's country, and what each
 provider's rule turns on: where the owner lives, their citizenship, where the
@@ -126,7 +126,7 @@ https://baseacross.com/tools/us-bank-access-by-country.
 
 To cite this release: BaseAcross (2026). *US bank access by country: 17 US
 business-account providers across 100 countries* (v1.0). Zenodo.
-https://doi.org/10.5281/zenodo.24015514
+https://doi.org/10.5281/zenodo.24015513
 
 Corrections are welcome as an issue, with the provider's own page.
 
