@@ -1,0 +1,32 @@
+{
+  "title": "US bank access by country: 17 US business-account providers across 100 countries",
+  "upload_type": "dataset",
+  "description": "<p>Which US business accounts name a founder's country, and what each provider's rule turns on: where the owner lives, their citizenship, where the company is registered, or US status. 17 providers, 100 countries, 1,700 cells. Every cell is worked out from the provider's own published list and carries the page, the words and the day it was read.</p><p>Not on a refusal list is not a yes: providers that publish only the countries they refuse still decide each application. Revolut Business (US) could not be re-read for this release and every one of its cells is marked unverified.</p><p>Also published at <a href=\"https://baseacross.com/tools/us-bank-access-by-country\">baseacross.com/tools/us-bank-access-by-country</a>. Not legal, tax or banking advice.</p>",
+  "creators": [
+    { "name": "BaseAcross", "affiliation": "Jeepra LLC" }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "banking",
+    "fintech",
+    "business bank account",
+    "international founders",
+    "non-resident",
+    "US LLC",
+    "financial inclusion",
+    "open data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://baseacross.com/tools/us-bank-access-by-country",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://github.com/medvizo-inc/us-llc-state-fees",
+      "relation": "isRelatedTo",
+      "resource_type": "dataset"
+    }
+  ]
+}
