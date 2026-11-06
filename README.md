@@ -111,6 +111,11 @@ Checked up to 2026-11-06.
 - `checked_on`: The oldest day any of those sources was read. Every cell is at least this fresh.
 - `verification`: `verified` (read for this release), `last_read` (an older read) or `unverified` (no cell is stated).
 
+## Earlier work
+
+Global Solo's [US Banking Access Index](https://www.globalsolo.global/data/banking-access-index)
+(CC BY) covers 8 countries, by where the founder lives.
+
 ## Licence and credit
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Use it anywhere, including commercially, with the
